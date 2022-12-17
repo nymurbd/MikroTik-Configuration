@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Total Prefixes: 167
 # --------------------------------------------
-# Maintainer: Lupael
+# Maintainer: nymurbd
 # --------------------------------------------
 /ip firewall address-list
 add address=103.247.204.0/22 list=FreeFire-Garena

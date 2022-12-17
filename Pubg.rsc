@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Total Prefixes: 724
 # --------------------------------------------
-# Maintainer: Lupael
+# Maintainer: nymurbd
 # --------------------------------------------
 /ip firewall address-list
 add address=1.12.0.0/14 list=PUBG-TENCENT

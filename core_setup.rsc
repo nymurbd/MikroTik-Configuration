@@ -6,7 +6,7 @@
     #
     #-------------------------------------------------------------------------------
     # Set the name of the router
-    :local systemName "ispbills"
+    :local systemName "nymurbd"
 
     # Secure your RouterOS! Set the password you would like to use when logging on as 'admin'.
     :local adminPassword "Admin121"
